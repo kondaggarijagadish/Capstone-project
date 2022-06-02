@@ -36,5 +36,5 @@ Under The Hotel Management System (HMS) Each Group will have below moduels under
 * Tested code using JUnit.
 ## Contributors
 * Azgar
-* Jagadeesh
+* Syed Dadapeer
 * Hemanth
