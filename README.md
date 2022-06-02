@@ -1,4 +1,4 @@
-Capstone-project
+### Capstone-project
 Hotel Management System
 Under The Hotel Management System (HMS) Each Group will have below moduels under Hotel Management System Project- Each group comprising of 6 or 5 associates- 
 1. Admin Module to add Users - This module will be developed by (1) or (2) associates in group
