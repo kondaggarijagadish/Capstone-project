@@ -12,7 +12,6 @@ Under The Hotel Management System (HMS) Each Group will have below moduels under
 
 ## Technologies Used
 * Spring Boot
-* Angular 13
 * Spring Data
 * Spring AOP
 * Microservices
@@ -20,8 +19,6 @@ Under The Hotel Management System (HMS) Each Group will have below moduels under
 * CSS
 * JavaScript
 * Bootstrap
-* JUnit
-* Log4J
 * Hibernate
 
 ## Roles and Responsibilities
